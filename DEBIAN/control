@@ -1,0 +1,10 @@
+Package: duzeruwifi
+Version: 1.0.0
+Architecture: all
+Maintainer: Claudio A. Silva <claudiosilva@duzeru.org>
+Installed-Size: 7301
+Depends: ndiswrapper-utils-1.9
+Section: admin
+Priority: optional
+Description: Colecao de driver para wireless cards.
+ Suporta pelo menos 40 tipos de wireless cards.
